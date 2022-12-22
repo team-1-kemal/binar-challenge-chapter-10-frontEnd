@@ -20,7 +20,7 @@ export default function Home() {
           <img
             src="/asset/logo-gn.png"
             alt="Logo"
-            className="absolute w-28 mt-[-640px] lg:w-[150px] lg:mt-[-400px]"
+            className="absolute w-28 mt-[-6pull40px] lg:w-[150px] lg:mt-[-400px]"
           />
           <div className="flex flex-col items-center lg:flex-row ] lg:gap-[80px] 2xl:gap-40">
             <motion.div
